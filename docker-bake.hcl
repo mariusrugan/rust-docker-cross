@@ -1,6 +1,7 @@
 variable "RUST_VERSION" {
   default = "1.63"
 }
+
 variable "BIN_OUT" {
   default = "./bin"
 }

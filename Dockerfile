@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-ARG RUST_VERSION=1.63.0
+ARG RUST_VERSION=1.64.0
 ARG XX_VERSION=1.1.2
 
 # xx is a helper for cross-compilation
